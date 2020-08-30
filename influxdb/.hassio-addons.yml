@@ -1,0 +1,6 @@
+channel: stable
+addons:
+  influxdb:
+    repository: Malaga82/addon-influxdb
+    target: influxdb
+    image: hassioaddons/influxdb-{arch}
