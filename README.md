@@ -12,7 +12,7 @@
 ![Supports armv7 Architecture][armv7-shield]
 ![Supports i386 Architecture][i386-shield]
 
-[![GitLab CI][gitlabci-shield]][gitlabci]
+[![Github Actions][github-actions-shield]][github-actions]
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
@@ -84,7 +84,7 @@ our [GitHub Repository][repository].
 
 MIT License
 
-Copyright (c) 2018-2020 Franck Nijhof
+Copyright (c) 2018-2021 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -109,23 +109,23 @@ SOFTWARE.
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-influxdb.svg
-[commits]: https://github.com/hassio-addons/addon-influxdb/commits/master
+[commits]: https://github.com/hassio-addons/addon-influxdb/commits/main
 [contributors]: https://github.com/hassio-addons/addon-influxdb/graphs/contributors
 [discord-ha]: https://discord.gg/c5DvZ4e
 [discord-shield]: https://img.shields.io/discord/478094546522079232.svg
 [discord]: https://discord.me/hassioaddons
-[docs]: https://github.com/hassio-addons/addon-influxdb/blob/master/influxdb/DOCS.md
+[docs]: https://github.com/hassio-addons/addon-influxdb/blob/main/influxdb/DOCS.md
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg
 [forum]: https://community.home-assistant.io/t/home-assistant-community-add-on-influxdb/54491?u=frenck
 [frenck]: https://github.com/frenck
+[github-actions-shield]: https://github.com/hassio-addons/addon-influxdb/workflows/CI/badge.svg
+[github-actions]: https://github.com/hassio-addons/addon-influxdb/actions
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[gitlabci-shield]: https://gitlab.com/hassio-addons/addon-influxdb/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/hassio-addons/addon-influxdb/pipelines
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/hassio-addons/addon-influxdb/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-influxdb.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
