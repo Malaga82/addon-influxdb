@@ -32,26 +32,26 @@
     "certfile": "fullchain.pem",
     "keyfile": "privkey.pem",
     "envvars": [
-    {
-      "name": "INFLUXDB_UDP_ENABLED",
-      "value": "true"
-    },
-    {
-      "name": "INFLUXDB_UDP_BIND_ADDRESS",
-      "value": "0.0.0.0:8089"
-    },
-    {
-      "name": "INFLUXDB_UDP_DATABASE",
-      "value": "proxmox"
-    },
-    {
-      "name": "INFLUXDB_UDP_0_BATCH_SIZE",
-      "value": "1000"
-    },
-    {
-      "name": "INFLUXDB_UDP_BATCH_TIMEOUT",
-      "value": "1s"
-    }
+      {
+        "name": "INFLUXDB_UDP_ENABLED",
+        "value": "true"
+      },
+      {
+        "name": "INFLUXDB_UDP_BIND_ADDRESS",
+        "value": "0.0.0.0:8089"
+      },
+      {
+        "name": "INFLUXDB_UDP_DATABASE",
+        "value": "proxmox"
+      },
+      {
+        "name": "INFLUXDB_UDP_0_BATCH_SIZE",
+        "value": "1000"
+      },
+      {
+        "name": "INFLUXDB_UDP_BATCH_TIMEOUT",
+        "value": "1s"
+      }
     ]
   },
   "schema": {
